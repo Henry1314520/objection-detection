@@ -16,7 +16,7 @@ Image Processing: OpenCV
 Programming Language: Python, pytorch
 Hardware Support: Supports GPU (CUDA) and CPU
 
-<a href="requirement.txt">(Requirement)</a> 
+<a href="requirements.txt">Requiremen)</a> 
 
 
  (Usage)
