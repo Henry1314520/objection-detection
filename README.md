@@ -47,4 +47,5 @@ image label
 
 
 
-best pt: https://drive.google.com/file/d/1igBMpsj1FFjAECeJf9o_-CpahUIDlD5A/view?usp=sharing
+model_1 best.pt: https://drive.google.com/file/d/1igBMpsj1FFjAECeJf9o_-CpahUIDlD5A/view?usp=sharing
+model_2 best.pt: https://drive.google.com/drive/folders/119jLYH9oXgaRMFTNytDCBjg_uenWh_GH
