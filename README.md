@@ -34,6 +34,11 @@ Support real-time video stream detection.
 Add detection for more behavior categories.
 Optimize model performance for higher accuracy.
 
+model_1 20 label : ['Looking down', 'Looking upfront', 'Student', 'Using-Laptop', 'Using-Phone', 'bend', 'book', 'bow_head', 'drinking', 'drowsy', 'eating', 'focused', 'hand-raising', 'phone', 'raise_head', 'reading', 'sleep', 'turn_head', 'upright', 'writing']
+
+model_2 : ['phone','face']
+<img src="model_1_accuracy.png" alt="Logo">model_1
+<img src="model_2_accuracy.png" alt="Logo">model_2
 
 <img src="Screenshot 2025-11-21 025339.png" alt="Logo"> model_1:detected 1 drowsy
 <img src="Screenshot 2025-11-21 025525.png" alt="Logo"> model_1:detected 7 hand-raising
