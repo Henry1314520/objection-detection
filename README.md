@@ -7,6 +7,7 @@ GPU Acceleration Support: Automatically utilizes GPU acceleration if CUDA is ava
 
 (Dataset)
 roboflow : https://app.roboflow.com/student-action-detection/studentactiondetection-hidrt/1
+
 google drive : https://drive.google.com/file/d/1Heb2N4hRcJH2s9tLdpTzacSj0APbUDdD/view
 
  (Tech Stack)
@@ -40,6 +41,7 @@ model_2 : ['phone','face']
 <img src="model_1_accuracy.png" alt="Logo">model_1_accuracy
 <img src="model_2_accuracy.png" alt="Logo">model_2_accuracy
 
+
 <img src="Screenshot 2025-11-21 025339.png" alt="Logo"> model_1:detected 1 drowsy
 <img src="Screenshot 2025-11-21 025525.png" alt="Logo"> model_1:detected 7 hand-raising
 <img src="Screenshot 2025-11-21 030950.png" alt="Logo"> model_2:detected 1 face and 1 phone
@@ -54,4 +56,6 @@ image label
 
 
 model_1 best.pt: https://drive.google.com/file/d/1igBMpsj1FFjAECeJf9o_-CpahUIDlD5A/view?usp=sharing
+
+
 model_2 best.pt: https://drive.google.com/drive/folders/119jLYH9oXgaRMFTNytDCBjg_uenWh_GH
