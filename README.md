@@ -6,9 +6,9 @@ User-Friendly Interface: Built with Gradio, providing an intuitive web-based int
 GPU Acceleration Support: Automatically utilizes GPU acceleration if CUDA is available.
 
 (Dataset)
-roboflow : https://app.roboflow.com/student-action-detection/studentactiondetection-hidrt/1
+first train(model_1) roboflow : https://app.roboflow.com/student-action-detection/studentactiondetection-hidrt/1
 
-google drive : https://drive.google.com/file/d/1Heb2N4hRcJH2s9tLdpTzacSj0APbUDdD/view
+second train(model_2) google drive : https://drive.google.com/file/d/1Heb2N4hRcJH2s9tLdpTzacSj0APbUDdD/view
 
  (Tech Stack)
 Deep Learning Framework: YOLO 11n(You Only Look Once)
