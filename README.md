@@ -35,9 +35,10 @@ Add detection for more behavior categories.
 Optimize model performance for higher accuracy.
 
 
-<img src="train_batch0.jpg" alt="Logo"> 
-<img src="train_batch1.jpg" alt="Logo">
-<img src="train_batch2.jpg" alt="Logo">
+<img src="Screenshot 2025-11-21 025339.png" alt="Logo"> model_1:detected 1 drowsy
+<img src="Screenshot 2025-11-21 025525.png" alt="Logo"> model_1:detected 7 hand-raising
+<img src="Screenshot 2025-11-21 030950.png" alt="Logo"> model_2:detected 1 face and 1 phone
+<img src="Screenshot 2025-11-21 031512.png" alt="Logo"> model_2:detected 6 face and 1 phone
 image label
 
 
